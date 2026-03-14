@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c2c5fdbf1aa50741a0ae2f1f0578033
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265914
+  packageName: 'Low Poly Bird: Penguin'
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Bird Penguin/Character/PenguinCharacterController.controller
+  uploadId: 614662

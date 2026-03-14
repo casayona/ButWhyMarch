@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ce34cdb28c6cda418b6e8f5b3163c00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 265914
+  packageName: 'Low Poly Bird: Penguin'
+  packageVersion: 1.0
+  assetPath: Assets/Low Poly Bird Penguin/Character/PenguinThirdPersonCamera.cs
+  uploadId: 614662
